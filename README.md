@@ -32,7 +32,7 @@ x64 Native Tools Command Prompt for VS 2022
 
 ### 📂 2. Clone this repository
 ```bash
-git clone https://github.com/yourusername/gnutime.git
+git clone https://github.com/ivosetyadi/gnutime.git
 cd gnutime
 ```
 
